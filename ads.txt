@@ -1,0 +1,18 @@
+# ads.txt — Aydın Taksi 724 (aydintaksi724.net.tr)
+#
+# Bu dosya, IAB Tech Lab "Authorized Digital Sellers" standardıdır ve
+# sitede yer alacak reklamların (ör. Google AdSense) yetkili satıcılarını beyan eder.
+# https://iabtechlab.com/ads-txt/
+#
+# ÖNEMLİ: Google AdSense / Google Ad Manager hesabı açtığınızda, hesabınızın
+# "Site" bölümünde size özel "pub-XXXXXXXXXXXXXXXX" yayıncı kimliğini göreceksiniz.
+# Aşağıdaki satırdaki XXXXXXXXXXXXXXXX kısmını kendi yayıncı kimliğinizle
+# değiştirip yorum işaretini (#) kaldırdığınızda dosya aktif hale gelir.
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# Google Ads (arama/reklam kampanyası) çalıştırmak için ads.txt ZORUNLU değildir;
+# bu dosya yalnızca sitede AdSense/Ad Manager reklamı YAYINLAMAK isterseniz gereklidir.
+# Google Ads kampanyalarında uyumluluk için asıl önemli olan; site genelinde net
+# işletme kimliği, telefon bilgisi (bkz. #iletisim) ve Gizlilik Politikası
+# (bkz. /gizlilik-politikasi.html) sayfalarının bulunmasıdır — bu site bunları içerir.

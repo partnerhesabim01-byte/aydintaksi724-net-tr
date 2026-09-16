@@ -1,0 +1,17 @@
+# Aydın Taksi 724
+
+> Aydın genelinde 7/24 hizmet veren taksi hattı. Şehir içi, hastane, havalimanı ve şehirlerarası taksi hizmeti verir.
+
+Telefon / WhatsApp: 0544 214 6460. Adres: Aydın. Çalışma saatleri: 7/24. Hizmet alanı: Aydın merkez, Efeler ve çevre ilçeler (Söke, Nazilli, Kuşadası, İncirliova).
+
+## Docs
+
+- [Ana Sayfa](https://aydintaksi724.net.tr/): Hizmetler, hakkımızda, galeri, yorumlar, SSS ve iletişim bölümlerinin tamamını içeren tek sayfa site.
+- [Site Haritası](https://aydintaksi724.net.tr/sitemap.xml): XML sitemap.
+
+## Optional
+
+- [Gizlilik Politikası](https://aydintaksi724.net.tr/gizlilik-politikasi.html): Toplanan veriler ve kullanım amaçları.
+- [KVKK Aydınlatma Metni](https://aydintaksi724.net.tr/kvkk.html): 6698 sayılı kanun kapsamında veri işleme bilgilendirmesi.
+- [Çerez Politikası](https://aydintaksi724.net.tr/cerez-politikasi.html): Kullanılan çerez türleri.
+- [Kullanım Şartları](https://aydintaksi724.net.tr/kullanim-sartlari.html): Site kullanım koşulları.
